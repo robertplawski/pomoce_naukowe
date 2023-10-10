@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="177mm"
+   height="25mm"
+   viewBox="0 0 177 25"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="chlebPszenny.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="319"
+     inkscape:cy="311"
+     inkscape:window-width="1900"
+     inkscape:window-height="976"
+     inkscape:window-x="1930"
+     inkscape:window-y="52"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path617"
+       style="fill:#d38d5f;fill-opacity:1;stroke-width:0.292754"
+       d="m 176.90657,11.472422 c 0,12.65123 0.0907,13.0846 -88.401397,13.0846 C 0.01337202,24.557022 -2.7978362e-5,24.123382 2.1638035e-8,11.472422 1.1021638e-5,-1.1788112 0.01374002,0.03119805 88.505173,0.03119805 c 88.491757,0 88.401337,-1.21000925 88.401397,11.44122395 z"
+       sodipodi:nodetypes="sssss" />
+  </g>
+</svg>

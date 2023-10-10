@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="177mm"
+   height="25mm"
+   viewBox="0 0 177 25"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="tostowy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="271.17545"
+     inkscape:cy="65.76093"
+     inkscape:window-width="1900"
+     inkscape:window-height="976"
+     inkscape:window-x="1930"
+     inkscape:window-y="52"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient25559">
+      <stop
+         style="stop-color:#cd824f;stop-opacity:1;"
+         offset="0"
+         id="stop25555" />
+      <stop
+         style="stop-color:#dba380;stop-opacity:1;"
+         offset="0.94806296"
+         id="stop25557" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient25559"
+       id="radialGradient25563"
+       cx="88.245277"
+       cy="12.577237"
+       fx="88.245277"
+       fy="12.577237"
+       r="88.453285"
+       gradientTransform="matrix(1,0,0,0.13881351,0,10.831347)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path617"
+       style="fill:url(#radialGradient25563);fill-opacity:1;stroke-width:0.292754"
+       d="m 176.69856,11.771148 c 0,12.65123 0.0907,13.0846 -88.401395,13.0846 -88.49180083,0 -88.50520083,-0.43364 -88.50517283,-13.0846 1.1e-5,-12.65123264 0.01374,-11.44122364 88.50517283,-11.44122364 88.491755,0 88.401335,-1.210009 88.401395,11.44122364 z"
+       sodipodi:nodetypes="sssss" />
+  </g>
+</svg>

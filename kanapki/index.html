@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="js/sandwichData.js" defer></script>
+    <script src="js/selectData.js" defer></script>
+    <script src="js/buildSandwich.js" defer></script>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" >
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
+    <title>Stwórz swoją kanapkę!</title>
+  </head>
+  <body>
+    <h1><i class="ti ti-baguette"></i> Symulator MCDonald's</h1>
+    <h2>I'm lovin' it</h2>
+    <main>
+      <div class="half-panel">
+        <h1 class="main-function">
+          <span class="top-hint" hint="wynik funkcji" style="--hint-color:#d96be4;">
+           let wynik</span>
+          =
+          <span class="top-hint" hint="nazwa funkcji" style="--hint-color:#598dd1;">
+           zrob_kanapke
+         </span>
+          (
+            <span class="top-hint" hint="argumenty" style="--hint-color:#d18659;">
+              <select class="js-bread-select"></select>,
+              <select class="js-extras-select"></select>,
+              <select class="js-meat-select"></select>,
+              <select class="js-cheese-select"></select>,
+              <select class="js-sauce-select"></select>
+            </span>
+          );
+        </h1>
+       <p>(zamówienie)</p>
+        <p class="function-description">
+          Wywołaj funkcję "zrob_kanapke" z odpowiednimi argumentami,
+          by stworzyć najlepszą kanapkę!
+          Funkcja "zrob_kanapke" według argumentów 
+          zwraca zdjęcie gotowej potrawy, 
+          które potem może być przypisane do zmiennej
+          i wydrukowane
+        </p>
+        <button class="run-function">
+          Wywołaj funkcję!
+        </button>
+      </div>
+      <div class="side-panel">
+        <h2>
+          <span class="top-hint" hint="pokaż kanapkę" style="--hint-color:#bbb;">
+            show_image
+          </span>
+          (
+            <span class="top-hint" hint="wynik funkcji" style="--hint-color:#d96be4;">wynik</span>
+          );
+        </h2>
+       <p>(kucharz)</p>
+        <div class="function-result">
+ 
+        </div>
+      </div>
+    </main>
+  </body>
+</html> 
+
